@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://das-kleine-landhaus.at/sitemap.xml
